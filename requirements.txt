@@ -1,0 +1,14 @@
+# To execute the code in our notebook
+altair
+matplotlib
+numpy
+vega_datasets
+bottleneck>=1.3.6
+pandas
+# C:\Users\Suellen\anaconda3\lib\site-packages\pandas\core\arrays\masked.py:61: UserWarning: Pandas requires version '1.3.6' or newer of 'bottleneck' (version '1.3.5' currently installed).
+#  from pandas.core import (
+ipython
+plotly
+
+# To interactively browser Jupyter content with MyST
+jupyterlab_myst
