@@ -20,6 +20,8 @@ project:
     - file: Introduction/Introduction.md
       children:
         - file: Introduction/How to.md
+        - title: How to use
+        - file: Introduction/biography.md
         - file: Introduction/sources.md
     - title: The  First Line Chart
       children:

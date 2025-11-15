@@ -1,4 +1,4 @@
-# How to use this jupyter book
+# How to use this book
 Intro text: reading and ing the data as a historian
 
 
