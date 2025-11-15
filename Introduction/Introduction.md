@@ -14,7 +14,7 @@ Shortly before the French Revolution, and deeply embedded in the eighteenth cent
 (india_table)=
 ![Whitworth's table showing similar data 1693-1773 (1776)](../img/india_table_intro.png)
 
-In order to understand the national economy and make effective policy English bureaucrats started analysing trade data in the 18th century. As we can see in [Fig. 1b](../img/india_table_intro.png) from Whitworth's *State of the trade of Great Britain* tables were the common way to present this kind of information.[^whitworth_citation] hier weiter 
+In order to understand the national economy and make effective policy English bureaucrats started analysing trade data in the 18th century. As we can see in [Fig. 1b](https://github.com/sdutrapereira/playfair/blob/main/img/india_table_intro.png?raw=true) from Whitworth's *State of the trade of Great Britain* tables were the common way to present this kind of information.[^whitworth_citation] hier weiter 
 
 [^whitworth_citation]: See [@friendly_history_2021]
 
