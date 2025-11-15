@@ -32,4 +32,4 @@ site:
   template: book-theme
   # options:
   #   favicon: favicon.ico
-  logo: figures/logo.png
+  logo: img/logo.png

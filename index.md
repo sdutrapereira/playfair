@@ -1,6 +1,6 @@
 # Welcome
 
-```{figure} /figures/Wheat_Wages_blue.png
+```{figure} /img/Wheat_Wages_blue.png
 ```
 
 ## Visualising Playfair
