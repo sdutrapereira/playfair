@@ -5,7 +5,7 @@
 
 ## Visualising Playfair
 
-#### A analysis of historical graphs with Python 
+#### Analysing historical graphs with Python 
 
 This Jupyter Book explores the work of William Playfair, who in 1786 published *The Commercial and Political Atlas*, the first book to represent statistical data graphically. Despite its significance, it went largely unnoticed for over 150 years.
 
