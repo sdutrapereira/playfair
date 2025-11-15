@@ -14,9 +14,10 @@ Shortly before the French Revolution, and deeply embedded in the eighteenth cent
 (india_table)=
 ![Whitworth's table showing similar data 1693-1773 (1776)](../img/india_table_intro.png)
 
-In order to understand the national economy and make effective policy English bureaucrats started analysing trade data in the 18th century. As we can see in [Fig. 1b](https://branchcollective.org/wp-content/uploads/2012/10/SachsFigure1.jpg) from Whitworth's *State of the trade of Great Britain* tables were the common way to present this kind of information.[^whitworth_citation] hier weiter 
+In order to understand the national economy and make effective policy English bureaucrats started analysing trade data in the 18th century. As we can see in [Figure 1b](../img/india_table_intro.png) from Whitworth's *State of the trade of Great Britain*[^whitworth_citation] tables were the common way to present quantitative data. In his Commercial and Political Atlas [^cpa_citation] Playfair tries to make the visualisation and analysis of this kind of information more visual and impactful. Although based on a similar dataset [Figure 1a](../img/india_table_intro.png) is more effentive in conveying information. 
 
 [^whitworth_citation]: See [@friendly_history_2021]
+[^cpa_citation]: See [@friendly_history_2021]
 
 See [](#india_graph) for the fruit, and [](#india_table) to reference both subfigures.
 :::
