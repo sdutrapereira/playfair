@@ -1,3 +1,10 @@
+---
+authors:
+  - name: Suellen Dutra Pereira
+  - date: November 2025
+---
+
+
 # Welcome
 
 ```{figure} /img/Wheat_Wages_blue.png
@@ -9,7 +16,7 @@
 
 This Jupyter Book explores the work of William Playfair, who in 1786 published *The Commercial and Political Atlas*, the first book to represent statistical data graphically. Despite its significance, it went largely unnoticed for over 150 years.
 
-This project investigates why by reconstructing Playfair’s graphs using Python and examining his historical sources and numerical data.
+Here I investigate why by reconstructing Playfair’s graphs and examining his historical sources and numerical data.
 Designed for historians without programming skills, the book offers step-by-step code explanations. If you have little interest in the code, no problem: just press play to run the cells and visualise the results.
 
 #### Here you will find

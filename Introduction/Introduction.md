@@ -5,7 +5,7 @@ authors:
 
 # Introduction
 
-Shortly before the French Revolution, and deeply embedded in the eighteenth century’s fascination with numbers, statistics, and tables, the English writer, engineer, and somewhat disreputable figure [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) published 1786 his [Commercial and Political Atlas](https://gallica.bnf.fr/ark:/12148/bpt6k1504263t), a book in which statistical data were, for the first time, represented in graphical form. The atlas marked the birth of the line, bar, and pie charts, and with them, the beginning of data visualization as we know it today.
+Shortly before the French Revolution, and deeply embedded in the eighteenth century’s fascination with numbers, statistics, and tables, the English writer, engineer, and somewhat disreputable figure [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) published 1786 his [Commercial and Political Atlas](https://gallica.bnf.fr/ark:/12148/bpt6k1504263t), a book in which statistical data were, for the first time, represented in graphical form. The atlas marks the birth of the line, bar, and pie charts, and with them, the beginning of data visualization as we know it today.
 
 :::{aside} Between trust and effectiveness
 
@@ -17,9 +17,9 @@ Shortly before the French Revolution, and deeply embedded in the eighteenth cent
 ![Playfair's Chart: Trade England East-India 1700-1785 (1786)](../img/india_graph_intro.png)
 
 (india_table)=
-![Whitworth's table showing similar data 1693-1773 (1776)](../img/india_table_intro.png)
+![Whitworth's table showing similar data 1697-1773 (1776)](../img/india_table_intro.png)
 
-In order to understand the national economy and make effective policy English bureaucrats started analysing trade data in the 18th century. As we can see in [](#india_table) from Whitworth's *State of the trade of Great Britain*[^whitworth_citation] tables were the common way to present quantitative data. In his Commercial and Political Atlas [^cpa_citation] Playfair tries to make the visualisation and analysis of this kind of information more visual and impactful. Although based on a similar dataset [Figure 1a](../img/india_table_intro.png) is more effentive in conveying information. 
+As we can see in [](#india_table) from Whitworth's *State of the trade of Great Britain*[^whitworth_citation] tables were the common way to present quantitative data. In his Commercial and Political Atlas [^cpa_citation] Playfair tries to make the visualisation and analysis of this kind of information more visual and impactful. Although based on a similar dataset [Figure 1a](../img/india_table_intro.png) is more effentive in conveying information. 
 
 [^whitworth_citation]: See [@friendly_history_2021], For a full view of the table click [hier](../img/india_table_intro.png)
 [^cpa_citation]: See [@friendly_history_2021]
