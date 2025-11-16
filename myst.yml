@@ -7,7 +7,8 @@ project:
   subtitle: A historical analysis of William Playfair's statistical graphs with Python 
   description: This Jupyter Book explores the historical context and significance of William Playfair's pioneering work in data visualization. Through reproductions of his charts using Python and historical analysis, we explore the origins of statistical graphics and their impact on data representation.
   keywords: [data analysis, data visuaisation, Playfair, digital history]
-  authors: [Suellen Dutra Pereira]
+  date: November 2025
+  authors: []
 
   github: https://github.com/sdutrapereira/playfair
 

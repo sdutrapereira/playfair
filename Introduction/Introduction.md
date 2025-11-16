@@ -1,3 +1,8 @@
+---
+authors:
+  - name: Suellen Dutra Pereira
+---
+
 # Introduction
 
 Shortly before the French Revolution, and deeply embedded in the eighteenth century’s fascination with numbers, statistics, and tables, the English writer, engineer, and somewhat disreputable figure [William Playfair](https://en.wikipedia.org/wiki/William_Playfair) published 1786 his [Commercial and Political Atlas](https://gallica.bnf.fr/ark:/12148/bpt6k1504263t), a book in which statistical data were, for the first time, represented in graphical form. The atlas marked the birth of the line, bar, and pie charts, and with them, the beginning of data visualization as we know it today.
