@@ -19,7 +19,7 @@ Shortly before the French Revolution, and deeply embedded in the eighteenth cent
 (india_table)=
 ![Whitworth's table showing similar data 1697-1773 (1776)](../img/india_table_intro.png)
 
-As we can see in [](#india_table) from Whitworth's *State of the trade of Great Britain*[^whitworth_citation] tables were the common way to present quantitative data. In his Commercial and Political Atlas [^cpa_citation] Playfair tries to make the visualisation and analysis of this kind of information more visual and impactful. Although based on a similar dataset [Figure 1a](../img/india_table_intro.png) is more effentive in conveying information. 
+As we can see in [](#india_table) from Whitworth's *State of the trade of Great Britain*[^whitworth_citation] tables were the common way to present quantitative data. In his Commercial and Political Atlas [^cpa_citation] Playfair tries to make the visualisation and analysis of this kind of information easier. Although based on a similar dataset [Figure 1a](../img/india_table_intro.png) is more effective in conveying information. 
 
 [^whitworth_citation]: See [@friendly_history_2021], For a full view of the table click [hier](../img/india_table_intro.png)
 [^cpa_citation]: See [@friendly_history_2021]
