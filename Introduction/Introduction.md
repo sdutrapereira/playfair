@@ -32,7 +32,7 @@ Although Playfair’s graphs have often been discussed in the history of statist
 
 [^friendly_citation]: See [@friendly_history_2021].
 
-In an effort to understand the historical reasons for Playfair’s limited impact on his aimed audience, this Jupyter Book examines his works, reconstructs his graphs using Python, explores his historical sources, interpreting the numerical data that underpinned his visualizations. The motivation behind this jupyter book is to demonstrate how modern data visualisation techniques can enhance our understanding of  quantitative sources, helping historians to answer their question. 
+In an effort to understand the historical reasons for Playfair’s limited impact on his aimed audience, this Jupyter Book examines his works, reconstructs his graphs using Python, and explores his historical sources, interpreting the numerical data that underpinned his visualizations. The motivation behind this jupyter book is to demonstrate how modern data visualisation techniques can enhance our understanding of  quantitative sources, helping historians to answer their question. 
 
 If you are a historian and less digital humanist, don't worry this Jupyter Book is designed especially for you. The code is explained step by step and serves purely as a tool to explore the subject. If you simply wish to see the results and visualisations, you can press the play button to run the examples. The primary focus is on studying Playfair’s graphs, not on learning to code ;)
 
