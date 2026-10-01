@@ -28,7 +28,7 @@ As we can see in [](#india_table) from Whitworth's *State of the trade of Great 
 
 Nevertheless, it went largely unnoticed and had little influence on how quantitative information was presentend in the 19th century. It would take more than 150 years for data visualisation to become part of the informational landscape in books and newspapers.
 
-Although Playfair’s graphs have often been discussed in the history of statistics, design, and data visualization, a historical study of his sources, intellectual aims and the possible reasons why his innovative method of conveying quantitative information was long overlooked has yet to be written. [^friendly_citation]
+Although Playfair’s graphs have often been discussed in the history of statistics, design, and data visualization, a historical study of his sources, intellectual aims and the possible reasons why his innovative method of conveying quantitative information was long overlooked and has yet to be written. [^friendly_citation]
 
 [^friendly_citation]: See [@friendly_history_2021].
 
